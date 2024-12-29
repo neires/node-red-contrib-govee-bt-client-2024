@@ -1,10 +1,10 @@
 {
-  "name": "node-red-contrib-govee-bt-client",
-  "version": "1.0.0",
+  "name": "node-red-contrib-govee-bt-client-2024",
+  "version": "1.5.0",
   "description": "Using noble.js, via govee-bt-client, continuously scans advertisements from Govee BLE Thermometer & Hygrometer devices.",
   "author": {
-    "name": "John McKerrell",
-    "email": "john@mckerrell.net"
+    "name": "neires",
+    "email": "neires@quantentunnel.de"
   },
   "keywords": [
     "ble",
@@ -23,10 +23,10 @@
     }
   },
   "dependencies": {
-    "govee-bt-client":  "^1.0.11"
+    "govee-bt-client":  "^1.0.15"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnmckerrell/node-red-contrib-govee-bt-client.git"
+    "url": "git+https://github.com/neires/node-red-contrib-govee-bt-client-2024.git"
   }
 }
