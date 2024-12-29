@@ -23,7 +23,7 @@
     }
   },
   "dependencies": {
-    "govee-bt-client":  "^1.0.15"
+    "govee-bt-client-2024":  "^1.0.15"
   },
   "repository": {
     "type": "git",
